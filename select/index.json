@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "USOTSUKI",
+  "base_artist": "STARGLOW",
+  "createdAt": "2026-03-30T09:48:21.041462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Usotsuki",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/01_Usotsuki_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "usotsuki no kimi ga suki",
+      "artist": "Masanori Otoda",
+      "has_synced": true,
+      "path": "select/02_usotsuki_no_kimi_ga_suki_Masanori_Otoda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Usotsuki Jingle Bells",
+      "artist": "COLTEMONIKHA",
+      "has_synced": true,
+      "path": "select/03_Usotsuki_Jingle_Bells_COLTEMONIKHA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Usotsuki Jingle Bell [嘘つきジングルベル]",
+      "artist": "COLTEMÖNIKHA",
+      "has_synced": true,
+      "path": "select/04_Usotsuki_Jingle_Bell_[嘘つきジングルベル]_COLTEMÖNIKHA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Usotsuki No Parade",
+      "artist": "supercell feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/05_Usotsuki_No_Parade_supercell_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Usotsuki No Parade [嘘つきのパレード]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/06_Usotsuki_No_Parade_[嘘つきのパレード]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Usotsuki",
+      "artist": "Kohh",
+      "has_synced": true,
+      "path": "select/07_Usotsuki_Kohh.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Usotsuki",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/08_Usotsuki_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "usotsuki (ClariS 1st Budokan Concert) [Live]",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/09_usotsuki_(ClariS_1st_Budokan_Concert)_[Live]_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Usotsuki (From \"A Whisker Away\")",
+      "artist": "Akano",
+      "has_synced": true,
+      "path": "select/10_Usotsuki_(From__A_Whisker_Away_)_Akano.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Usotsuki No Parade (feat. Hatsune Miku)",
+      "artist": "Supercell",
+      "has_synced": true,
+      "path": "select/11_Usotsuki_No_Parade_(feat._Hatsune_Miku)_Supercell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sayonara Usotsuki",
+      "artist": "Mimimememimi",
+      "has_synced": true,
+      "path": "select/12_Sayonara_Usotsuki_Mimimememimi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Usotsuki (Liar)",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/13_Usotsuki_(Liar)_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Usotsuki no Namida",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/14_Usotsuki_no_Namida_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Usotsuki",
+      "artist": "YOAKE",
+      "has_synced": true,
+      "path": "select/15_Usotsuki_YOAKE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ウソツキ - usotsuki",
+      "artist": "WHITE JAM",
+      "has_synced": false,
+      "path": "select/16_ウソツキ_-_usotsuki_WHITE_JAM.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Usotsuki",
+      "artist": "Vivid Undress",
+      "has_synced": false,
+      "path": "select/17_Usotsuki_Vivid_Undress.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sayonara Usotsuki",
+      "artist": "みみめめMIMI",
+      "has_synced": false,
+      "path": "select/18_Sayonara_Usotsuki_みみめめMIMI.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "usotsuki emily",
+      "artist": "sana",
+      "has_synced": false,
+      "path": "select/19_usotsuki_emily_sana.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "USOTSUKI",
+      "artist": "STARGLOW",
+      "has_synced": false,
+      "path": "select/pl_01_USOTSUKI_STARGLOW.txt"
+    }
+  ]
+}
